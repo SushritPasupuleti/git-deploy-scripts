@@ -7,5 +7,5 @@ git clone -b production <remote-repo>
 
 Pull changes from production
 ```shell
-git pull origin 'production'
+git pull origin production
 ```
